@@ -515,10 +515,8 @@ Add an appropriate license file if you intend to distribute the project under a 
 
 # 👨‍💻 Author
 
-## Shivaprasad S
+## Nikitha B
 
-GitHub:  
-https://github.com/S-Shivaprasad
 
 ---
 
